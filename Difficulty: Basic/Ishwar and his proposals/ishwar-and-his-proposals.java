@@ -38,9 +38,38 @@ class Solution
     {
         // your code here
         ArrayList <Integer> list = new ArrayList<>();
+        if(n<2) return list;
+        /*
+        With using sorting
         Arrays.sort(arr);
         list.add(arr[n-2]);
         list.add(arr[1]);
+        return list;
+        */
+
+        // without sorting
+        int Largest = Integer.MIN_VALUE;
+        int secondLargest = Integer.MIN_VALUE;
+        int Smallest = Integer.MIN_VALUE;
+        int secondSmallest = Integer.MIN_VALUE;
+        for(int num : arr){
+            if(num > Largest){
+                secondLargest = largest;
+                Largest = num;
+              } else if(num > secondLargest && num != largest){
+                    secondLargest = num;
+                }
+
+             if(num < Smallest){
+                secondSmallest = Smallest;
+                Smallest = num;
+              } else if(num < secondSmallest && num != Smallest){
+                    secondSmallest = num;
+                }
+        }
+         list.add(secondLargest);
+        list.add(secondSmallest);
+
         return list;
     }
 }
