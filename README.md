@@ -11,6 +11,7 @@ DSA Sheet For Coding Round
 | [0169-majority-element](https://github.com/TechRam09/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
 | [3483-alternating-groups-ii](https://github.com/TechRam09/DSA-Problems/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [0027-remove-element](https://github.com/TechRam09/DSA-Problems/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
