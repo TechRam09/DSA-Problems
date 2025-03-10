@@ -12,6 +12,7 @@ DSA Sheet For Coding Round
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [3483-alternating-groups-ii](https://github.com/TechRam09/DSA-Problems/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ DSA Sheet For Coding Round
 | [0001-two-sum](https://github.com/TechRam09/DSA-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/TechRam09/DSA-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TechRam09/DSA-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
 |  |
@@ -26,6 +28,7 @@ DSA Sheet For Coding Round
 | [0027-remove-element](https://github.com/TechRam09/DSA-Problems/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +38,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +48,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [0169-majority-element](https://github.com/TechRam09/DSA-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
