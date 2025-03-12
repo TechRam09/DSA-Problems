@@ -8,6 +8,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [0001-two-sum](https://github.com/TechRam09/DSA-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/TechRam09/DSA-Problems/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/TechRam09/DSA-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TechRam09/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ DSA Sheet For Coding Round
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/TechRam09/DSA-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
