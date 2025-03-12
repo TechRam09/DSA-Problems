@@ -13,6 +13,7 @@ DSA Sheet For Coding Round
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TechRam09/DSA-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-alternating-groups-ii](https://github.com/TechRam09/DSA-Problems/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TechRam09/DSA-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TechRam09/DSA-Problems/tree/master/0169-majority-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TechRam09/DSA-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
 | ------- |
