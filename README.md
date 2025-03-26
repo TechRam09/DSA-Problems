@@ -20,6 +20,7 @@ DSA Sheet For Coding Round
 | [0485-max-consecutive-ones](https://github.com/TechRam09/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/TechRam09/DSA-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TechRam09/DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/TechRam09/DSA-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/TechRam09/DSA-Problems/tree/master/2478-longest-nice-subarray) |
@@ -56,6 +57,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TechRam09/DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ DSA Sheet For Coding Round
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TechRam09/DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/TechRam09/DSA-Problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/TechRam09/DSA-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sliding Window
@@ -166,4 +169,8 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TechRam09/DSA-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TechRam09/DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
