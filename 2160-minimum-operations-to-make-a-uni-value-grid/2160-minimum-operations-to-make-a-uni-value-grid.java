@@ -8,13 +8,12 @@ class Solution {
             }
         }
 
-        Collections.sort(values);
-
-        for (int val : values) {
-            if (Math.abs(val - values.get(0)) % x != 0) {
-                return -1;
-            }
+        int rem = values.get(0) % x;
+        for(int num : values){
+            if(num % x != rem) return -1;
         }
+
+        Collections.sort(values);
 
         int median = values.get(values.size() / 2);
         int operations = 0;
