@@ -81,6 +81,7 @@ DSA Sheet For Coding Round
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/TechRam09/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/TechRam09/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/TechRam09/DSA-Problems/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TechRam09/DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/TechRam09/DSA-Problems/tree/master/2998-count-symmetric-integers) |
@@ -148,6 +149,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TechRam09/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/TechRam09/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/TechRam09/DSA-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TechRam09/DSA-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TechRam09/DSA-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -229,6 +231,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
+| [2032-largest-odd-number-in-string](https://github.com/TechRam09/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2681-put-marbles-in-bags](https://github.com/TechRam09/DSA-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/TechRam09/DSA-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
