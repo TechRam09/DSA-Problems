@@ -21,6 +21,7 @@ DSA Sheet For Coding Round
 | [0416-partition-equal-subset-sum](https://github.com/TechRam09/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/TechRam09/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/TechRam09/DSA-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/TechRam09/DSA-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1656-count-good-triplets](https://github.com/TechRam09/DSA-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -92,6 +93,7 @@ DSA Sheet For Coding Round
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/TechRam09/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/TechRam09/DSA-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/TechRam09/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/TechRam09/DSA-Problems/tree/master/2050-count-good-numbers) |
