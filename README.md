@@ -87,6 +87,7 @@ DSA Sheet For Coding Round
 | [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/TechRam09/DSA-Problems/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/TechRam09/DSA-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Math
 |  |
@@ -173,6 +174,7 @@ DSA Sheet For Coding Round
 | [0205-isomorphic-strings](https://github.com/TechRam09/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TechRam09/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/TechRam09/DSA-Problems/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TechRam09/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/TechRam09/DSA-Problems/tree/master/1542-consecutive-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/TechRam09/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -187,6 +189,7 @@ DSA Sheet For Coding Round
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TechRam09/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/TechRam09/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/TechRam09/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/TechRam09/DSA-Problems/tree/master/0868-push-dominoes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/TechRam09/DSA-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/TechRam09/DSA-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TechRam09/DSA-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
