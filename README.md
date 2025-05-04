@@ -21,6 +21,7 @@ DSA Sheet For Coding Round
 | [0416-partition-equal-subset-sum](https://github.com/TechRam09/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/TechRam09/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/TechRam09/DSA-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/TechRam09/DSA-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TechRam09/DSA-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -69,6 +70,7 @@ DSA Sheet For Coding Round
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TechRam09/DSA-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TechRam09/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/TechRam09/DSA-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -167,6 +169,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TechRam09/DSA-Problems/tree/master/0169-majority-element) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TechRam09/DSA-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
