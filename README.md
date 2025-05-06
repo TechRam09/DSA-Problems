@@ -27,6 +27,7 @@ DSA Sheet For Coding Round
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1656-count-good-triplets](https://github.com/TechRam09/DSA-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/TechRam09/DSA-Problems/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TechRam09/DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TechRam09/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/TechRam09/DSA-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -328,4 +329,8 @@ DSA Sheet For Coding Round
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TechRam09/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TechRam09/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/TechRam09/DSA-Problems/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
