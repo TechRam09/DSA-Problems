@@ -10,6 +10,7 @@ DSA Sheet For Coding Round
 | [0027-remove-element](https://github.com/TechRam09/DSA-Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/TechRam09/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TechRam09/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TechRam09/DSA-Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TechRam09/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TechRam09/DSA-Problems/tree/master/0136-single-number) |
@@ -73,6 +74,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TechRam09/DSA-Problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/TechRam09/DSA-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/TechRam09/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TechRam09/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -302,6 +304,7 @@ DSA Sheet For Coding Round
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TechRam09/DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/TechRam09/DSA-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/TechRam09/DSA-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
