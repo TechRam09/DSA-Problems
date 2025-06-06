@@ -95,6 +95,7 @@ DSA Sheet For Coding Round
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/TechRam09/DSA-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/TechRam09/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TechRam09/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/TechRam09/DSA-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/2915-count-of-interesting-subarrays) |
@@ -224,6 +225,7 @@ DSA Sheet For Coding Round
 | [2032-largest-odd-number-in-string](https://github.com/TechRam09/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/TechRam09/DSA-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/TechRam09/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TechRam09/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/TechRam09/DSA-Problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/TechRam09/DSA-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/TechRam09/DSA-Problems/tree/master/3194-find-words-containing-character) |
@@ -275,6 +277,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechRam09/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TechRam09/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/TechRam09/DSA-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -351,6 +354,7 @@ DSA Sheet For Coding Round
 | [2032-largest-odd-number-in-string](https://github.com/TechRam09/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TechRam09/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/TechRam09/DSA-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TechRam09/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/TechRam09/DSA-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/TechRam09/DSA-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/TechRam09/DSA-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
