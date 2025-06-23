@@ -139,6 +139,7 @@ DSA Sheet For Coding Round
 | [2032-largest-odd-number-in-string](https://github.com/TechRam09/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/TechRam09/DSA-Problems/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TechRam09/DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/TechRam09/DSA-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TechRam09/DSA-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/TechRam09/DSA-Problems/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/TechRam09/DSA-Problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -429,6 +430,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [1656-count-good-triplets](https://github.com/TechRam09/DSA-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/TechRam09/DSA-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/TechRam09/DSA-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/TechRam09/DSA-Problems/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/TechRam09/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
