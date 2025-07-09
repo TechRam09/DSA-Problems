@@ -135,6 +135,7 @@ DSA Sheet For Coding Round
 | [0075-sort-colors](https://github.com/TechRam09/DSA-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/TechRam09/DSA-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/TechRam09/DSA-Problems/tree/master/0868-push-dominoes) |
@@ -270,6 +271,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [0205-isomorphic-strings](https://github.com/TechRam09/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TechRam09/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/TechRam09/DSA-Problems/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/TechRam09/DSA-Problems/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/TechRam09/DSA-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
