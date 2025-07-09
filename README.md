@@ -133,6 +133,7 @@ DSA Sheet For Coding Round
 | [0027-remove-element](https://github.com/TechRam09/DSA-Problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/TechRam09/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TechRam09/DSA-Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/TechRam09/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TechRam09/DSA-Problems/tree/master/0344-reverse-string) |
@@ -269,6 +270,7 @@ DSA Sheet For Coding Round
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/TechRam09/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/TechRam09/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TechRam09/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TechRam09/DSA-Problems/tree/master/0344-reverse-string) |
