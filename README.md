@@ -103,6 +103,7 @@ DSA Sheet For Coding Round
 | [0242-valid-anagram](https://github.com/TechRam09/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/TechRam09/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/TechRam09/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TechRam09/DSA-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -259,6 +260,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TechRam09/DSA-Problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/TechRam09/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/TechRam09/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -280,6 +282,7 @@ DSA Sheet For Coding Round
 | [0205-isomorphic-strings](https://github.com/TechRam09/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TechRam09/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TechRam09/DSA-Problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/TechRam09/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/TechRam09/DSA-Problems/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/TechRam09/DSA-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -369,6 +372,7 @@ DSA Sheet For Coding Round
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TechRam09/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TechRam09/DSA-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TechRam09/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TechRam09/DSA-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
