@@ -60,6 +60,7 @@ DSA Sheet For Coding Round
 | [2478-longest-nice-subarray](https://github.com/TechRam09/DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/TechRam09/DSA-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TechRam09/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TechRam09/DSA-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/TechRam09/DSA-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TechRam09/DSA-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -122,6 +123,7 @@ DSA Sheet For Coding Round
 | [2308-divide-array-into-equal-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/TechRam09/DSA-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TechRam09/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TechRam09/DSA-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/TechRam09/DSA-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/2915-count-of-interesting-subarrays) |
@@ -249,6 +251,7 @@ DSA Sheet For Coding Round
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/TechRam09/DSA-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/TechRam09/DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TechRam09/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TechRam09/DSA-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/TechRam09/DSA-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TechRam09/DSA-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
