@@ -38,6 +38,7 @@ DSA Sheet For Coding Round
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/TechRam09/DSA-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/TechRam09/DSA-Problems/tree/master/1656-count-good-triplets) |
+| [1813-maximum-erasure-value](https://github.com/TechRam09/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TechRam09/DSA-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/TechRam09/DSA-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -116,6 +117,7 @@ DSA Sheet For Coding Round
 | [1227-number-of-equivalent-domino-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TechRam09/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/TechRam09/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/TechRam09/DSA-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/TechRam09/DSA-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TechRam09/DSA-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -250,6 +252,7 @@ DSA Sheet For Coding Round
 | [0003-longest-substring-without-repeating-characters](https://github.com/TechRam09/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/TechRam09/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TechRam09/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/TechRam09/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/TechRam09/DSA-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/TechRam09/DSA-Problems/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TechRam09/DSA-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
