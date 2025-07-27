@@ -57,6 +57,7 @@ DSA Sheet For Coding Round
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/TechRam09/DSA-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/TechRam09/DSA-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
