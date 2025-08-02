@@ -75,6 +75,7 @@ DSA Sheet For Coding Round
 | [2626-count-the-number-of-good-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/TechRam09/DSA-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/TechRam09/DSA-Problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/TechRam09/DSA-Problems/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/TechRam09/DSA-Problems/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/TechRam09/DSA-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -138,6 +139,7 @@ DSA Sheet For Coding Round
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TechRam09/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TechRam09/DSA-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/TechRam09/DSA-Problems/tree/master/2689-rearranging-fruits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/TechRam09/DSA-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/TechRam09/DSA-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -254,6 +256,7 @@ DSA Sheet For Coding Round
 | [2479-meeting-rooms-iii](https://github.com/TechRam09/DSA-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/TechRam09/DSA-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/TechRam09/DSA-Problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/TechRam09/DSA-Problems/tree/master/2689-rearranging-fruits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/TechRam09/DSA-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/TechRam09/DSA-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TechRam09/DSA-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -494,6 +497,7 @@ DSA Sheet For Coding Round
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/TechRam09/DSA-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TechRam09/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/TechRam09/DSA-Problems/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/TechRam09/DSA-Problems/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TechRam09/DSA-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/TechRam09/DSA-Problems/tree/master/3001-apply-operations-to-maximize-score) |
