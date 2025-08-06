@@ -109,6 +109,7 @@ DSA Sheet For Coding Round
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/TechRam09/DSA-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/TechRam09/DSA-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/TechRam09/DSA-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/TechRam09/DSA-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@ DSA Sheet For Coding Round
 | [2690-house-robber-iv](https://github.com/TechRam09/DSA-Problems/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/TechRam09/DSA-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/TechRam09/DSA-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -573,6 +575,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/TechRam09/DSA-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/TechRam09/DSA-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -581,6 +584,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [3791-fruits-into-baskets-iii](https://github.com/TechRam09/DSA-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
