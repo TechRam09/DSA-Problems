@@ -126,6 +126,7 @@ DSA Sheet For Coding Round
 | [0387-first-unique-character-in-a-string](https://github.com/TechRam09/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/TechRam09/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
+| [0900-reordered-power-of-2](https://github.com/TechRam09/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TechRam09/DSA-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TechRam09/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -180,6 +181,7 @@ DSA Sheet For Coding Round
 | [0231-power-of-two](https://github.com/TechRam09/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/TechRam09/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0900-reordered-power-of-2](https://github.com/TechRam09/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TechRam09/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TechRam09/DSA-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TechRam09/DSA-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -251,6 +253,7 @@ DSA Sheet For Coding Round
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/TechRam09/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/TechRam09/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/TechRam09/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/TechRam09/DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/TechRam09/DSA-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -304,6 +307,7 @@ DSA Sheet For Coding Round
 | [0169-majority-element](https://github.com/TechRam09/DSA-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/TechRam09/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/TechRam09/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/TechRam09/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/TechRam09/DSA-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -552,6 +556,7 @@ DSA Sheet For Coding Round
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/TechRam09/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/TechRam09/DSA-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/TechRam09/DSA-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
