@@ -181,6 +181,7 @@ DSA Sheet For Coding Round
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TechRam09/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/TechRam09/DSA-Problems/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/TechRam09/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0900-reordered-power-of-2](https://github.com/TechRam09/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TechRam09/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -577,6 +578,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/TechRam09/DSA-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/TechRam09/DSA-Problems/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/TechRam09/DSA-Problems/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TechRam09/DSA-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/TechRam09/DSA-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
