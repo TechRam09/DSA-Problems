@@ -40,6 +40,7 @@ DSA Sheet For Coding Round
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/TechRam09/DSA-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/TechRam09/DSA-Problems/tree/master/1656-count-good-triplets) |
+| [1791-richest-customer-wealth](https://github.com/TechRam09/DSA-Problems/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/TechRam09/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TechRam09/DSA-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -496,6 +497,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/TechRam09/DSA-Problems/tree/master/0945-snakes-and-ladders) |
+| [1791-richest-customer-wealth](https://github.com/TechRam09/DSA-Problems/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/TechRam09/DSA-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/TechRam09/DSA-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/TechRam09/DSA-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
