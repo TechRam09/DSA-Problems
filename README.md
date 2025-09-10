@@ -8,6 +8,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [0001-two-sum](https://github.com/TechRam09/DSA-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/TechRam09/DSA-Problems/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TechRam09/DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/TechRam09/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/TechRam09/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TechRam09/DSA-Problems/tree/master/0053-maximum-subarray) |
@@ -212,6 +213,7 @@ DSA Sheet For Coding Round
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TechRam09/DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TechRam09/DSA-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
