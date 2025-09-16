@@ -25,6 +25,7 @@ DSA Sheet For Coding Round
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/TechRam09/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/TechRam09/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/TechRam09/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -176,6 +177,7 @@ DSA Sheet For Coding Round
 | [0125-valid-palindrome](https://github.com/TechRam09/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/TechRam09/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/TechRam09/DSA-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
@@ -224,6 +226,7 @@ DSA Sheet For Coding Round
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TechRam09/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TechRam09/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TechRam09/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TechRam09/DSA-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TechRam09/DSA-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -248,6 +251,7 @@ DSA Sheet For Coding Round
 | [0136-single-number](https://github.com/TechRam09/DSA-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/TechRam09/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/TechRam09/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TechRam09/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
