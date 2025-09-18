@@ -33,6 +33,7 @@ DSA Sheet For Coding Round
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/TechRam09/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/TechRam09/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/TechRam09/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TechRam09/DSA-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TechRam09/DSA-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -138,6 +139,7 @@ DSA Sheet For Coding Round
 | [0442-find-all-duplicates-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/TechRam09/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/TechRam09/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/TechRam09/DSA-Problems/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/TechRam09/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/TechRam09/DSA-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -254,6 +256,7 @@ DSA Sheet For Coding Round
 | [0231-power-of-two](https://github.com/TechRam09/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TechRam09/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TechRam09/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/TechRam09/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TechRam09/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -277,6 +280,7 @@ DSA Sheet For Coding Round
 | [0349-intersection-of-two-arrays](https://github.com/TechRam09/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/TechRam09/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/TechRam09/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/TechRam09/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/TechRam09/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/TechRam09/DSA-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TechRam09/DSA-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
