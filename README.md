@@ -203,6 +203,7 @@ DSA Sheet For Coding Round
 | [0900-reordered-power-of-2](https://github.com/TechRam09/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TechRam09/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TechRam09/DSA-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TechRam09/DSA-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TechRam09/DSA-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/TechRam09/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
@@ -260,6 +261,7 @@ DSA Sheet For Coding Round
 | [0287-find-the-duplicate-number](https://github.com/TechRam09/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/TechRam09/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/TechRam09/DSA-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TechRam09/DSA-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/TechRam09/DSA-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TechRam09/DSA-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/TechRam09/DSA-Problems/tree/master/2308-divide-array-into-equal-pairs) |
