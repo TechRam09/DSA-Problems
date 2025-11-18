@@ -359,6 +359,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TechRam09/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/TechRam09/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TechRam09/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/TechRam09/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/TechRam09/DSA-Problems/tree/master/0205-isomorphic-strings) |
@@ -457,6 +458,7 @@ DSA Sheet For Coding Round
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TechRam09/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TechRam09/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/TechRam09/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TechRam09/DSA-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
