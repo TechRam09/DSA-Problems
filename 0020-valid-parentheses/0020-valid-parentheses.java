@@ -17,7 +17,7 @@ class Solution {
             }
         }
 
-        return stack.size() == 0;
+        return stack.isEmpty();
     }
 
     public boolean isOpeningBracket(char c){
