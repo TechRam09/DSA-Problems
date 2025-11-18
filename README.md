@@ -182,6 +182,7 @@ DSA Sheet For Coding Round
 | [0075-sort-colors](https://github.com/TechRam09/DSA-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/TechRam09/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TechRam09/DSA-Problems/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/TechRam09/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/TechRam09/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TechRam09/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/TechRam09/DSA-Problems/tree/master/0344-reverse-string) |
@@ -455,6 +456,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TechRam09/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/TechRam09/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TechRam09/DSA-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TechRam09/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/TechRam09/DSA-Problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -609,6 +611,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/TechRam09/DSA-Problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/TechRam09/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/TechRam09/DSA-Problems/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/TechRam09/DSA-Problems/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TechRam09/DSA-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -666,5 +669,6 @@ DSA Sheet For Coding Round
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/TechRam09/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TechRam09/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
