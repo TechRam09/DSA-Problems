@@ -8,6 +8,7 @@ DSA Sheet For Coding Round
 | ------- |
 | [0001-two-sum](https://github.com/TechRam09/DSA-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/TechRam09/DSA-Problems/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/TechRam09/DSA-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TechRam09/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TechRam09/DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/TechRam09/DSA-Problems/tree/master/0041-first-missing-positive) |
@@ -179,6 +180,7 @@ DSA Sheet For Coding Round
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/TechRam09/DSA-Problems/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/TechRam09/DSA-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/TechRam09/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TechRam09/DSA-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/TechRam09/DSA-Problems/tree/master/0125-valid-palindrome) |
